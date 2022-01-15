@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26ff9426.chunk.css",
+    "main.js": "/static/js/main.b8717e52.chunk.js",
+    "main.js.map": "/static/js/main.b8717e52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e8dc58c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e8dc58c.js.map",
+    "static/css/2.7f37b7f6.chunk.css": "/static/css/2.7f37b7f6.chunk.css",
+    "static/js/2.b6ab8921.chunk.js": "/static/js/2.b6ab8921.chunk.js",
+    "static/js/2.b6ab8921.chunk.js.map": "/static/js/2.b6ab8921.chunk.js.map",
+    "static/js/3.2d8a4aae.chunk.js": "/static/js/3.2d8a4aae.chunk.js",
+    "static/js/3.2d8a4aae.chunk.js.map": "/static/js/3.2d8a4aae.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7f37b7f6.chunk.css.map": "/static/css/2.7f37b7f6.chunk.css.map",
+    "static/css/main.26ff9426.chunk.css.map": "/static/css/main.26ff9426.chunk.css.map",
+    "static/js/2.b6ab8921.chunk.js.LICENSE.txt": "/static/js/2.b6ab8921.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/TTOctosquaresExp-Regular.b7c8bc87.woff",
+    "static/media/animateArrow.c43e32c3.gif": "/static/media/animateArrow.c43e32c3.gif",
+    "static/media/BannerComp.scss": "/static/media/bgBanner.a31f7aed.png",
+    "static/media/TeamComp.scss": "/static/media/bgTeam.05ae21ff.jpeg",
+    "static/media/CollectionComp.scss": "/static/media/circleAnimate.2a10e5e3.gif",
+    "static/media/collectionImg1.8ed1dd5a.png": "/static/media/collectionImg1.8ed1dd5a.png",
+    "static/media/collectionImg2.a31f7aed.png": "/static/media/collectionImg2.a31f7aed.png",
+    "static/media/collectionImg3.4126e409.png": "/static/media/collectionImg3.4126e409.png",
+    "static/media/reset.css": "/static/media/font.617a0a92.woff",
+    "static/media/footerImg.2cc267c0.svg": "/static/media/footerImg.2cc267c0.svg",
+    "static/media/messageBox1.38f05f7f.png": "/static/media/messageBox1.38f05f7f.png",
+    "static/media/messageBox2.f3c3f609.png": "/static/media/messageBox2.f3c3f609.png",
+    "static/media/scrollDown.c57e7f71.gif": "/static/media/scrollDown.c57e7f71.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e8dc58c.js",
+    "static/css/2.7f37b7f6.chunk.css",
+    "static/js/2.b6ab8921.chunk.js",
+    "static/css/main.26ff9426.chunk.css",
+    "static/js/main.b8717e52.chunk.js"
+  ]
+}

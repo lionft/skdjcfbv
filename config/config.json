@@ -1,0 +1,21 @@
+{
+  "OWNER_ADDRESS": "0x05D5aF0dD6410924b785b9622DABB804EAA0b500",
+  "CONTRACT_ADDRESS": "0x648CB09254c17b070D28A2e3475B83316241Ba3c",
+
+  "SCAN_LINK": "https://Etherscan.com/0x648CB09254c17b070D28A2e3475B83316241Ba3c",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Dope Goat club",
+  "SYMBOL": "DGC",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 60000000000000000,
+
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/DopeGoatclub",
+  "SHOW_BACKGROUND": true
+}
